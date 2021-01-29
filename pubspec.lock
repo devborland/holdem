@@ -243,6 +243,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.1.5+6"
+  poker:
+    dependency: "direct main"
+    description:
+      name: poker
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.4"
   pool:
     dependency: transitive
     description:
