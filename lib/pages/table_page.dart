@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart' hide Card;
 import '../widgets/card_builder.dart';
-import '../deck/deck.dart';
+import '../models/deck/deck.dart';
 import 'package:poker/poker.dart';
 
 class TablePage extends StatelessWidget {
